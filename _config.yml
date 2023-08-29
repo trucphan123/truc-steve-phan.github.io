@@ -80,10 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Steve Phan  "
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Lecture, Ph.D, Dept of Mientrung University of Civil Engineering"
+  location         : "Dept. of Bridge and Road, Faculty of Civil
+Engineering, No. 24, Nguyen Du Street,
+Tuy Hoa City, Phu Yen Province, Vietnam"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
