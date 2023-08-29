@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Steve Phan'Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &Steve Phan"
 description              : &description "personal description"
 url                      : https://stevephan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
