@@ -88,7 +88,7 @@ Engineering, No. 24, Nguyen Du Street,
 Tuy Hoa City, Phu Yen Province, Vietnam"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=wtC_aDcAAAAJ&hl=zh-TW"
   email            :  phantranthanhtruc@muce.edu.vn
   researchgate     :  # example: "https://www.researchgate.net/profile/Truc-Phan-14"
   uri              :
@@ -105,7 +105,7 @@ Tuy Hoa City, Phu Yen Province, Vietnam"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6458-6192"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
